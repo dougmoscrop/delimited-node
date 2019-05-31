@@ -1,6 +1,6 @@
 {
   "name": "delimited",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A fast but non-compliant streaming parser/serailizer",
   "main": "delimited.js",
   "scripts": {
